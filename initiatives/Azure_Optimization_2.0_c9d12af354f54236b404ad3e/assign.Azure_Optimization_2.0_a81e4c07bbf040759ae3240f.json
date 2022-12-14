@@ -1,0 +1,31 @@
+{
+ "sku": {
+  "name": "A0",
+  "tier": "Free"
+ },
+ "identity": {
+  "principalId": "7b1a69af-0bed-473f-a1b1-29c907cd0ef3",
+  "tenantId": "ad7ee2a3-ee59-4eb8-8107-208d14ae88ee",
+  "type": "SystemAssigned"
+ },
+ "properties": {
+  "displayName": "Azure Optimization 2.0",
+  "policyDefinitionId": "/subscriptions/3d4b0b7f-f170-4f92-accf-a427f478f87b/providers/Microsoft.Authorization/policySetDefinitions/c9d12af354f54236b404ad3e",
+  "scope": "/subscriptions/3d4b0b7f-f170-4f92-accf-a427f478f87b",
+  "notScopes": [],
+  "parameters": {},
+  "metadata": {
+   "assignedBy": "Admin Brandon Stuart",
+   "parameterScopes": {},
+   "createdBy": "2533ac2a-1df3-4f59-aa96-2a3cbe1078e3",
+   "createdOn": "2022-05-11T20:31:25.284459Z",
+   "updatedBy": null,
+   "updatedOn": null
+  },
+  "enforcementMode": "Default"
+ },
+ "id": "/subscriptions/3d4b0b7f-f170-4f92-accf-a427f478f87b/providers/Microsoft.Authorization/policyAssignments/a81e4c07bbf040759ae3240f",
+ "type": "Microsoft.Authorization/policyAssignments",
+ "name": "a81e4c07bbf040759ae3240f",
+ "location": "westcentralus"
+}
